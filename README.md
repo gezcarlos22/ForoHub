@@ -127,5 +127,13 @@ Implementa un sistema robusto de **autenticación y autorización con Spring Sec
 Si encuentras errores o tienes mejoras, abre un **issue** o envía un **pull request**.
 
 
+---
 
+## Autor ✒️
+
+**Gez Carlos Enrique**  
+📌 [GitHub](https://github.com/gezcarlos22)  
+📧 Contacto: [gez.carlos.98@gmail.com]
+
+---
 
