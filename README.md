@@ -1,3 +1,6 @@
+![ForoHub](https://github.com/user-attachments/assets/4bcb47be-a45e-4b8e-83ea-710b2415c8b2)
+
+
 # 🚀 ForoHub - API REST de Plataforma de Foros
 
 ForoHub es una **API REST moderna** desarrollada con **Java 17+** y **Spring Boot**, diseñada para gestionar usuarios, tópicos y respuestas en un entorno de foro en línea de forma **segura, escalable y eficiente**.  
